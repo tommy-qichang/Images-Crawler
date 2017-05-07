@@ -1,0 +1,769 @@
+Bramble hairstreak, Callophrys dumetorum
+Sheridan's hairstreak, Callophrys sheridanii
+Xami hairstreak, Callophrys xami
+Sandia hairstreak, Callophrys mcfarlandi
+Brown elfin, Callophrys augustinus
+Desert elfin, Callophrys fotis
+Moss's elfin, Callophrys mossii
+Hoary elfin, Callophrys polios
+Frosted elfin, Callophrys irus
+Henry's elfin, Callophrys henrici
+Bog elfin, Callophrys lanoraieensis
+Eastern pine elfin, Callophrys niphon
+Western pine elfin, Callophrys eryphon
+Thicket hairstreak, Callophrys spinetorum
+Johnson's hairstreak, Callophrys johnsoni
+Juniper hairstreak, Callophrys gryneus
+Hessel's hairstreak, Callophrys hesseli
+Aquamarine hairstreak, Oenomaus ortygnus
+Broken-M hairstreak, Parrhasius polibetes
+White M hairstreak, Parrhasius m-album
+Mexican-M hairstreak, Parhassius moctezuma
+Gray hairstreak, Strymon melinus
+Avalon scrub-hairstreak, Strymon avalona
+Red-crescent scrub-hairstreak, Strymon rufofusca
+Red-lined scrub-hairstreak, Strymon bebrycia
+Martial scrub-hairstreak, Strymon martialis
+Yojoa scrub-hairstreak, Strymon yojoa
+White scrub-hairstreak, Strymon albata
+Bartram's scrub-hairstreak, Strymon acis
+Lacey's scrub-hairstreak, Strymon alea
+Mallow scrub-hairstreak, Strymon istapa
+Disguised scrub-hairstreak, Strymon limenia
+Tailless scrub-hairstreak, Strymon cestri
+Lantana scrub-hairstreak, Strymon bazochii
+Bromeliad scrub-hairstreak, Strymon serapio
+Confusing scrub-hairstreak, Strymon megarus
+Orange-crescent groundstreak, Ziegleria guzanta
+Ruddy hairstreak, Electrostrymon sangala
+Fulvous hairstreak, Electrostrymon angelia
+Muted hairstreak, Electrostrymon canus
+Red-banded hairstreak, Calycopis cecrops
+Dusky-blue groundstreak, Calycopis isobeon
+Susanna's groundstreak, Calycopis origo
+Red-spotted hairstreak, Tmolus echion
+Pearly-gray hairstreak, Siderus tephraeus
+Leda ministreak, Ministrymon leda
+Clytie ministreak, Ministrymon clytie
+Red-flocked ministreak, Ministrymon phrutus
+Gray ministreak, Ministrymon azia
+Vicroy's ministreak, Ministrymon janevicroy
+Sonoran hairstreak, Hypostrymon critola
+Early hairstreak, Erora laeta
+Arizona hairstreak, Erora quaderna
+Western pygmy blue, Brephidium exile
+Eastern pygmy blue, Brephidium isophthalma
+Cassius blue, Leptotes cassius
+Marine blue, Leptotes marina
+Pea blue, Lampides boeticus
+Cyna blue, Zizula cyna
+Lesser grass-blue, Zizina otis
+Miami blue, Cyclargus thomasi
+Nickerbean blue, Cyclargus ammon
+Ceraunus blue, Hemiargus ceraunus
+Reakirt's blue, Hemiargus isola
+Eastern tailed-blue, Everes comyntas
+Western tailed-blue, Everes amyntula
+Spring azure, Celastrina ladon
+Summer azure, Celastrina neglecta
+Holly azure, Celastrina idella
+Hops azure, Celastrina humulus
+Cherry gall azure, Celastrina serotina
+Northern azure, Celastrina lucia
+Echo azure, Celastrina echo
+Appalachian azure, Celastrina neglectamajor
+Dusky azure, Celastrina nigra
+Hawaiian blue, Vaga blackburni
+Sonoran blue, Philotes sonorensis
+Square-spotted blue, Euphilotes battoides
+Dotted blue, Euphilotes enoptes
+Rita blue, Euphilotes rita
+Spalding's blue, Euphilotes spaldingi
+Small blue, Philotiella speciosa
+Arrowhead blue, Glaucopsyche piasus
+Silvery blue, Glaucopsyche lygdamus
+Northern blue, Lycaeides idas
+Melissa blue, Lycaeides melissa
+Greenish blue, Plebejus saepiolus
+San Emigdio blue, Plebejus emigdionis
+Boisduval's blue, Plebejus icarioides
+Shasta blue, Plebejus shasta
+Acmon blue, Plebejus acmon
+Lupine blue, Plebejus lupinus
+Veined blue, Plebejus neurona
+Cranberry blue, Vacciniina optilete
+Arctic blue, Agriades glandon
+Heather blue, Agriades cassiope
+Little metalmark, Calephelis virginiensis
+Northern metalmark, Calephelis borealis
+Fatal metalmark, Calephelis nemesis
+Rounded metalmark, Calephelis perditalis
+Wright's metalmark, Calephelis wrighti
+Swamp metalmark, Calephelis mutica
+Rawson's metalmark, Calephelis rawsoni
+Arizona metalmark, Calephelis arizonensis
+Red-bordered metalmark, Caria ino
+Blue metalmark, Lasaia sula
+Black-patched bluemark, Lasaia agesilas
+Gray bluemark, Lasaia maria
+Red-bordered pixie, Melanis pixe
+Common jewelmark, Sarota chrysus
+Carousing jewelmark, Anteros carausius
+Zela metalmark, Emesis zela
+Ares metalmark, Emesis ares
+Veracruz tanmark, Emesis vulpina
+Curve-winged metalmark, Emesis emesia
+Falcate metalmark, Emesis tenedia
+Mormon metalmark, Apodemia mormo
+Narrow-winged metalmark, Apodemia multiplaga
+Hepburn's metalmark, Apodemia hepburni
+Palmer's metalmark, Apodemia palmeri
+Walker's metalmark, Apodemia walkeri
+Crescent metalmark, Apodemia phyciodoides
+Nais metalmark, Apodemia nais
+Sealpoint metalmark, Apodemia hypoglauca
+Gulf fritillary, Agraulis vanillae
+Mexican silverspot, Dione moneta
+Banded orange heliconian, Dryadula phaetusa
+Julia heliconian, Dryas iulia
+Least heliconian, Euiedes aliphera
+Isabella's heliconian, Eueides isabella
+Zebra heliconian, Heliconius charithonia
+Erato heliconian, Heliconius erato
+Tiger heliconian, Heliconius ismenius
+Variegated fritillary, Euptoieta claudia
+Mexican fritillary, Euptoieta hegesia
+Diana fritillary, Speyeria diana
+Great spangled fritillary, Speyeria cybele
+Aphrodite fritillary, Speyeria aphrodite
+Regal fritillary, Speyeria idalia
+Nokomis fritillary, Speyeria nokomis
+Edward's fritillary, Speyeria edwardsi
+Coronis fritillary, Speyeria coronis
+Zerene fritillary, Speyeria zerene
+Callippe fritillary, Speyeria callippe
+Great Basin fritillary, Speyeria egleis
+Unsilvered fritillary, Speyeria adiaste
+Atlantis fritillary, Speyeria atlantis
+Hydaspe fritillary, Speyeria hydaspe
+Mormon fritillary, Speyeria mormonia
+Mountain fritillary, Boloria napaea
+Bog fritillary, Boloria eunomia
+Silver-bordered fritillary, Boloria selene
+Meadow fritillary, Boloria bellona
+Frigga fritillary, Boloria frigga
+Dingy fritillary, Boloria improba
+Relict fritillary, Boloria kriemhild
+Pacific fritillary, Boloria epithore
+Polaris fritillary, Boloria polaris
+Freija fritillary, Boloria freija
+Alberta fritillary, Boloria alberta
+Astarte fritillary, Boloria astarte
+Purplish fritillary, Boloria montinus
+Arctic fritillary, Boloria chariclea
+Cryptic fritillary, Boloria natazhati
+Dotted checkerspot, Poladryas minuta
+Arachne checkerspot, Poladryas arachne
+Theona checkerspot, Thessalia theona
+Chinati checkerspot, Thessalia chinatiensis
+Black checkerspot, Thessalia cyneas
+Fulvia checkerspot, Thessalia fulvia
+Leanira checkerspot, Thessalia leanira
+California patch, Chlosyne californica
+Bordered patch, Chlosyne lacinia
+Definite patch, Chlosyne definita
+Banded patch, Chlosyne endeis
+Crimson patch, Chlosyne janais
+Rosita patch, Chlosyne rosita
+Red-spotted patch, Chlosyne melitaeoides
+Gorgone checkerspot, Chlosyne gorgone
+Silvery checkerspot, Chlosyne nycteis
+Harris's checkerspot, Chlosyne harrisii
+Nuevo León checkerspot, Chlosyne kendallorum
+Northern checkerspot, Chlosyne palla
+Rockslide checkerspot, Chlosyne whitneyi
+Sagebrush checkerspot, Chlosyne acastus
+Gabb's checkerspot, Chlosyne gabbii
+Hoffmann's checkerspot, Chlosyne hoffmanni
+Elf, Microtia elva
+Tiny checkerspot, Dymasia dymas
+Elada checkerspot, Texola elada
+Smudged crescent, Castilia eranites
+Texan crescent, Phyciodes texana
+Cuban crescent, Phyciodes frisia
+Pale-banded crescent, Phyciodes tulcis
+Orange-patched crescent, Phyciodes drusilla
+Ardent crescent, Phyciodes ardys
+Black crescent, Phyciodes ptolyca
+Pine crescent, Phyciodes sitalces
+Chestnut crescent, Phyciodes argentea
+Vesta crescent, Phyciodes vesta
+Phaon crescent, Phyciodes phaon
+Pearl crescent, Phyciodes tharos
+Northern crescent, Phyciodes cocyta
+Tawny crescent, Phyciodes batesii
+Field crescent, Phyciodes campestris
+Painted crescent, Phyciodes picta
+California crescent, Phyciodes orseis
+Pale crescent, Phyciodes pallida
+Mylitta crescent, Phyciodes mylitta
+Gillett's checkerspot, Euphydryas gillettii
+Variable checkerspot, Euphydryas chalcedona
+Edith's checkerspot, Euphydryas editha
+Baltimore checkerspot, Euphydryas phaeton
+Question mark, Polygonia interrogationis
+Eastern comma, Polygonia comma
+Satyr comma, Polygonia satyrus
+Green comma, Polygonia faunus
+Hoary comma, Polygonia gracilis
+Oreas comma, Polygonia oreas
+Gray comma, Polygonia progne
+Compton tortoiseshell, Nymphalis vaualbum
+California tortoiseshell, Nymphalis californica
+Mourning cloak, Nymphalis antiopa
+Milbert's tortoiseshell, Aglais milberti
+Small tortoiseshell, Aglais urticae
+American lady, Vanessa virginiensis
+Painted lady, Vanessa cardui
+West Coast lady, Vanessa annabella
+Kamehameha lady, Vanessa tameneamea
+Red admiral, Vanessa atalanta
+Orange mapwing, Hypanartia lethe
+Mimic, Hypolimnas misippus
+Common buckeye, Junonia coenia
+Mangrove buckeye, Junonia evarete
+Tropical buckeye, Junonia genoveva
+White peacock, Anartia jatrophae
+Cuban peacock, Anartia chrysopelea
+Banded peacock, Anartia fatima
+Malachite, Siproeta stelenes
+Rusty-tipped page, Siproeta epaphus
+Red-spotted admiral, Limenitis arthemis
+Viceroy, Limenitis archippus
+Weidemeyer's admiral, Limenitis weidemeyerii
+Lorquin's admiral, Limenitis lorquini
+Band-celled sister, Adelpha fessonia
+California sister, Adelpha bredowii
+Eyed sister, Adelpha paroeca
+Spot-celled sister, Adelpha basiloides
+Mexican sister, Adelpha diazi
+Rayed sister, Adelpha lycorias melanthe
+Common banner, Epiphile adrasta
+Orange banner, Temenis laothoe
+Mexican bluewing, Myscelia ethusa
+Blackened bluewing, Myscelia cyanathe
+Whitened bluewing, Myscelia cyaniris
+Dingy purplewing, Eunica monima
+Florida purplewing, Eunica tatila
+Four-spotted sailor, Dynamine postverta
+Blue-eyed sailor, Dynamine dyonis
+Small-eyed sailor, Dynamine artisemia
+Orange-striped eighty-eight, Diaethria pandama
+Common Mestra, Mestra amymone
+Red rim, Biblis hyperia
+Red cracker, Hamadryas amphinome
+Gray cracker, Hamadryas februa
+Variable cracker, Hamadryas feronia
+Glaucous cracker, Hamadryas glauconome
+Pale cracker, Hamadryas amphichloe
+Guatemalan cracker, Hamadryas guatemalena
+Black-patched cracker, Hamadryas atlantis
+Orion cecropian, Historis odius
+Tailed cecropian, Historis acheronta
+Blomfild's beauty, Smyrna blomfildia
+Waiter daggerwing, Marpesia coresia
+Many-banded daggerwing, Marpesia chiron
+Ruddy daggerwing, Marpesia petreus
+Antillean daggerwing, Marpesia eleuchea
+One-spotted prepona, Archaeoprepona demophon
+Tropical leafwing, Anaea aidea
+Florida leafwing, Anaea floridalis
+Goatweed leafwing, Anaea andria
+Pointed leafwing, Anaea eurypyle
+Angled leafwing, Anaea glycerium
+Pale-spotted leafwing, Anaea pithyusa
+Guatemalan leafwing, Anaea forreri
+Hackberry emperor, Asterocampa celtis
+Empress Leilia, Asterocampa leilia
+Tawny emperor, Asterocampa clyton
+Cream-banded dusky emperor, Asterocampa idyja argus
+Pavon emperor, Doxocopa pavon
+Silver emperor, Doxocopa laure
+Orange owlet, Opsiphanes boisduvalii
+Split-banded owlet, Opsiphanes cassina
+White morpho, Morpho polyphemus
+Southern pearly-eye, Enodia portlandia
+Northern pearly-eye, Enodia anthedon
+Creole pearly-eye, Enodia creola
+Eyed brown, Satyrodes eurydice
+Appalachian brown, Satyrodes appalachia
+Nabokov's satyr, Cyllopsis pyracmon
+Horsetail gemmed-satyr, Cyllopsis pseudopephredo
+Canyonland satyr, Cyllopsis pertepida
+Gemmed satyr, Cyllopsis gemma
+Carolina satyr, Hermeuptychia sosybius
+Hermeuptychia hermybius
+Hermeuptychia intricata
+Georgia satyr, Neonympha areolata
+Mitchell's satyr, Neonympha mitchellii
+Helicta satyr, Neonympha helicta
+Little wood-satyr, Megisto cymela
+Red satyr, Megisto rubricata
+Pine satyr, Paramacera allyni
+White satyr, Pareuptychia ocirrhoe
+Hayden's ringlet, Coenonympha haydenii
+Common ringlet, Coenonympha tullia
+Common wood-nymph, Cercyonis pegala
+Mead's wood-nymph, Cercyonis meadii
+Great Basin wood-nymph, Cercyonis sthenele
+Small wood-nymph, Cercyonis oetus
+Vidler's alpine, Erebia vidleri
+Ross's alpine, Erebia rossii
+Disa alpine, Erebia disa
+Taiga alpine, Erebia mancinus
+Magdalena alpine, Erebia magdalena
+Banded alpine, Erebia fasciata
+Red-disked alpine, Erebia discoidalis
+Theano alpine, Erebia theano
+Four-dotted alpine, Erebia dabanensis (includes youngi)
+Common alpine, Erebia epipsodea
+Colorado alpine, Erebia callias
+Reddish alpine, Erebia kozhantshikovi (includes lafontainei)
+Eskimo alpine, Erebia occulta
+Red-bordered satyr, Gyrocheilus patrobas
+Riding's satyr, Neominois ridingsii
+Great Arctic, Oeneis nevadensis
+Macoun's Arctic, Oeneis macounii
+Chryxus Arctic, Oeneis chryxus
+Uhler's Arctic, Oeneis uhleri
+Alberta Arctic, Oeneis alberta
+White-veined Arctic, Oeneis taygete (distinct from Old World Oeneis bore)
+Jutta Arctic, Oeneis jutta
+Sentinel Arctic, Oeneis alpina (includes exubitor)
+Melissa Arctic, Oeneis melissa
+Polixenes Arctic, Oeneis polixenes
+Early Arctic, Oeneis rosovi (includes philipi)
+Klug's clearwing, Dircenna klugii
+Disturbed tigerwing, Mechanitis polymnia
+Broad-tipped clearwing, Pteronymia cotytto
+Thick-tipped Greta, Greta morgane
+Monarch, Danaus plexippus
+Queen, Danaus gilippus
+Soldier, Danaus eresimus
+Tiger mimic-queen, Lycorea cleobaea
+Dull firetip, Pyrrhopyge araxes
+Mangrove skipper, Phocides pigmalion
+Guava skipper, Phocides palemon
+Beautiful beamer, Phocides belus
+Teal beamer, Phocides urania
+Mercurial skipper, Proteides mercurius
+Zestos skipper, Epargyreus zestos
+Silver-spotted skipper, Epargyreus clarus
+Broken silverdrop, Epargyreus exadeus
+Pepper-spotted silverdrop, Epargyreus socus orizaba
+Weak-frosted silverdrop, Epargyreus spinosa
+Hammock skipper, Polygonus leo
+Manuel's skipper, Polygonus manueli
+White-striped longtail, Chioides catillus
+Zilpa longtail, Chioides zilpa
+Golden-spotted aguna, Aguna asander
+Emerald aguna, Aguna claxon
+Tailed aguna, Aguna metophis
+Mottled longtail, Typhedanus undulatus
+Mexican longtail, Polythrix mexicana
+Eight-spotted longtail, Polythrix octomaculata
+Short-tailed skipper, Zestusa dorus
+White-crescent longtail, Codatractus alcaeus
+Arizona skipper, Codatractus arizonensis
+Valeriana skipper, Codatractus mysie
+Long-tailed skipper, Urbanus proteus
+Pronus longtail, Urbanus pronus
+Esmeralda longtail, Urbanus esmeraldus
+Turquoise longtail, Urbanus evona
+Cobalt longtail, Urbanus viterboana
+Double-striped longtail, Urbanus belli
+Dorantes longtail, Urbanus dorantes
+Teleus longtail, Urbanus teleus
+Tanna longtail, Urbanus tanna
+Plain longtail, Urbanus simplicius
+Brown longtail, Urbanus procne
+White-tailed longtail, Urbanus doryssus
+Two-barred flasher, Astraptes fulgerator
+Small-spotted flasher, Astraptes egregius
+Frosted flasher, Astraptes alardus
+Gilbert's flasher, Astraptes gilberti
+Yellow-tipped flasher, Astraptes anaphus
+Golden banded-skipper, Autochton cellus
+Sonoran banded-skipper, Autochton pseudocellus
+Sierra Madre banded-skipper, Autochton siermadror
+Chisos banded skipper, Autochton cincta
+Spiky banded-skipper, Autochton neis
+Hoary edge, Achalarus lyciades
+Desert cloudywing, Achalarus casica
+Dark cloudywing, Achalarus tehuanaca
+Skinner's cloudywing, Achalarus albociliatus
+Coyote cloudywing, Achalarus toxeus
+Jalapus cloudywing, Achalarus jalapus
+Southern cloudywing, Thorybes bathyllus
+Northern cloudywing, Thorybes pylades
+Western cloudywing, Thorybes diversus
+Mexican cloudywing, Thorybes mexicana
+Confused cloudywing, Thorybes confusis
+Drusius cloudywing, Thorybes drusius
+Potrillo skipper, Cabares potrillo
+Common scarlet-eye, Nascus phocus
+Fritzgaertner's flat, Celaenorrhinus fritzgaertneri
+Stallings's flat, Celaenorrhinus stallingsi
+Falcate skipper, Spathilepia
+Mimosa skipper, Cogia calchas
+Acacia skipper, Cogia hippalus
+Outis skipper, Cogia outis
+Gold-costa skipper, Cogia caicus
+Starred skipper, Arteurotia tractipennis
+Brown enops, Polyctor enops
+Purplish-black skipper, Nisoniades rubescens
+Glazed pellicia, Pellicia arina
+Morning glory pellicia, Pellicia dimidiata
+White-haired skipper, Noctuana lactifera bipuncta
+Mottled bolla, Bolla clytius
+Rounded bolla, Bolla imbras
+Obscure bolla, Bolla brennus
+Mauve bolla, Bolla eusebius
+Golden-headed scallopwing, Staphylus ceos
+Mazans scallopwing, Staphylus mazans
+Hayhurst's scallopwing, Staphylus hayhurstii
+Aztec scallopwing, Staphylus azteca
+Variegated skipper, Gorgythion begga
+Blue-studded skipper, Sostrata bifasciata
+Dingy mylon, Mylon pelopidas
+Hoary skipper, Carrhenes canescens
+Black-spotted hoary-skipper, Carrhenes fuscescens
+Northern clipper, Milanion clito
+Glassy-winged skipper, Xenophanes tryxus
+Dusted spurwing, Antigonus erosus
+White spurwing, Antigonus emorsus
+Red-studded skipper, Noctuana stator
+Texas powdered-skipper, Systasea pulverulenta
+Arizona powdered-skipper, Systasea zampa
+Sickle-winged skipper, Achylodes thraso
+Pale sicklewing, Achlyodes pallida
+Hermit skipper, Grais stigmatica
+Brown-banded skipper, Timochares ruptifasciatus
+Common bluevent, Anastrus sempiternus
+Common bentwing, Ebrietas anacreon
+White-patched skipper, Chiomara asychis
+False duskywing, Gesta gesta
+Rocky Mountain duskywing, Erynnis telemachus
+Propertius duskywing, Erynnis propertius
+Meridian duskywing, Erynnis meridianus
+Scudder's duskywing, Erynnis scudderi
+Horace's duskywing, Erynnis horatius
+Mournful duskywing, Erynnis tristis
+Mottled duskywing, Erynnis martialis
+Pacuvius duskywing, Erynnis pacuvius
+Zarucco duskywing, Erynnis zarucco
+Funereal duskywing, Erynnis funeralis
+Columbine duskywing, Erynnis lucilius
+Wild indigo duskywing, Erynnis baptisiae
+Afranius duskywing, Erynnis afranius
+Persius duskywing, Erynnis persius
+Grizzled skipper, Pyrgus centaureae
+Two-banded checkered-skipper, Pyrgus ruralis
+Mountain checkered-skipper, Pyrgus xanthus
+Small checkered-skipper, Pyrgus scriptura
+Common checkered-skipper, Pyrgus communis
+White checkered-skipper, Pyrgus albescens
+Tropical checkered-skipper, Pyrgus oileus
+Desert checkered-skipper, Pyrgus philetas
+Erichson's white-skipper, Heliopetes domicella
+Northern white-skipper, Heliopetes ericetorum
+Laviana white-skipper, Heliopetes laviana
+Turk's-cap white-skipper, Heliopetes macaira
+East-Mexican white-skipper, Heliopetes sublinea
+Veined white-skipper, Heliopetes arsalte
+Common streaky-skipper, Celotes nessus
+Scarce streaky-skipper, Celotes limpia
+Common sootywing, Pholisora catullus
+Mexican sootywing, Pholisora mejicana
+Mojave sootywing, Hesperopsis libya
+Saltbush sootywing, Hesperopsis alpheus
+Arctic skipper, Carterocephalus palaemon
+Russet skipperling, Piruna pirus
+Four-spotted skipperling, Piruna polingi
+Many-spotted skipperling, Piruna cingo
+Small-spotted skipperling, Piruna microstictus
+Chisos skipperling, Piruna haferniki
+Two-rayed skipperling, Piruna roeveri
+Yucca giant-skipper, Megathymus yuccae (includes coloradensis)
+Cofaqui giant-skipper, Megathymus cofaqui (includes harrisi)
+Strecker's giant-skipper, Megathymus streckeri
+Ursine giant-skipper, Megathymus ursus
+Manfreda giant-skipper, Stallingsia maculosa
+Banana skipper, Erionota thrax
+Osca skipper, Rhinthon osca
+Double-dotted skipper, Decinea percosius // END butterfly species
+Dogwood Thyatirid, Euthyatira pudens
+Lettered Habrosyne, Habrosyne scripta
+Tufted Thyatirid, Pseudothyatira cymatophoroides
+Arched Hooktip, Drepana arcuata
+Northern Eudeilinea, Eudeilinia herminiata
+Rose Hooktip, Oreta rosea
+Cecrops eyed silkmoth, Automeris cecrops
+Io moth, Automeris io
+Iris eyed silkmoth, Automeris iris
+Louisiana eyed silkmoth, Automeris louisiana
+Patagonia eyed silkmoth, Automeris patagoniensis
+Zephyr eyed silkmoth, Automeris zephyria
+Burns' buckmoth, Hemileuca burnsi
+Chinati sheepmoth, Hemileuca chinatiensis
+Western sheepmoth, Hemileuca eglanterina
+Electra buckmoth, Hemileuca electra
+Griffin's sheepmoth, Hemileuca griffini
+Grote's buckmoth, Hemileuca grotei
+Hera buckmoth, Hemileuca hera
+Tricolor buckmoth, Hemileuca tricolor
+Slosser's buckmoth, Hemileuca slosseri
+Luna moth, Actias luna
+Oculea silkmoth, Antheraea oculea
+Polyphemus moth, Antheraea polyphemus
+Tuliptree silkmoth, Callosamia angulifera
+Promethea silkmoth, Callosamia promethea
+Sweetbay silkmoth, Callosamia securifera
+Calleta silkmoth, Eupackardia calleta
+Cecropia silkmoth, Hyalophora cecropia
+Columbia silkmoth, Hyalophora columbia
+Ceanothus silkmoth, Hyalophora euryalus
+Cincta rothschildia, Rothschildia cincta
+Forbes' silkmoth, Rothschildia forbesi
+Rothschildia zacateca
+White-streaked saturnia moth, Saturnia albofasciata
+Mendocino saturnia moth, Saturnia mendocino
+Walters' saturnia moth, Saturnia walterorum
+Consular oakworm moth, Anisota consularis
+Oslar's oakworm moth, Anisota oslari
+Orange-tipped oakworm moth, Anisota senatoria
+Spiny oakworm moth, Anisota stigma
+Pink-striped oakworm moth, Anisota virginiensis
+Royal Walnut Moth, Citheronia regalis
+Pine-devil Moth, Citheronia sepulcralis
+Rosy maple moth, Dryocampa rubicunda
+Imperial moth, Eacles imperialis
+Oslar's eacles, Eacles oslari
+Bicolored honey locust moth, Sphingicampa bicolor
+Hubbard's Small Silkmoth, Sphingicampa hubbardi
+Sphingicampa montana
+Blanchards' amplypterus, Adhemarius blanchardorum
+Pink-spotted hawkmoth, Agrius cingulata
+Walnut sphinx, Amorpha juglandis
+Elm sphinx, Ceratomia amyntor
+Catalpa sphinx, Ceratomia catalpae
+Waved sphinx, Ceratomia undulosa
+Giant sphinx, Cocytius antaeus
+Pawpaw sphinx, Dolba hyloeus
+Northern pine sphinx, Lapara bombycoides
+Southern pine sphinx, Lapara coniferarum
+Gulf pine sphinx, Lapara phaeobrachycerous
+Hermit sphinx, Lintneria eremitus
+Separated sphinx, Lintneria separatus
+Occult sphinx, Manduca occulta
+Five-spotted hawkmoth, Manduca quinquemaculata
+Rustic sphinx, Manduca rustica
+Modest sphinx, Pachysphinx modesta
+Big poplar sphinx, Pachysphinx occidentalis
+Huckleberry sphinx, Paonias astylus
+Blinded sphinx, Paonias excaecata
+Small-eyed sphinx, Paonias myops
+One-eyed sphinx, Smerinthus cerisyi
+Twin-spotted sphinx, Smerinthus jamaicensis
+Great ash sphinx, Sphinx chersis
+Wild cherry sphinx, Sphinx drupiferarum
+Laurel sphinx, Sphinx kalmiae
+Titan sphinx, Aellopos titan
+Nessus sphinx, Amphion floridensis
+Parce sphinx, Callionima parce
+Grote's sphinx, Cautethia grotei
+Spurious sphinx, Cautethia spuria
+Oleander Hawk-moth, Daphnis nerii
+Azalea Sphinx, Darapsa choerilus (pholus)
+Virginia creeper sphinx, Darapsa myron
+Lettered sphinx, Deidamia inscriptum
+Obscure sphinx, Erinnyis obscura
+Achemon sphinx, Eumorpha achemon
+Banded sphinx, Eumorpha fasciatus
+Gaudy sphinx, Eumorpha labruscae
+Pandorus Sphinx, Eumorpha pandorus
+Snowberry Clearwing, Hemaris diffinis
+Hummingbird Clearwin, Hemaris thysbe
+Spurge hawkmoth, Hyles euphorbiae
+White-lined Sphinx, Hyles lineata
+Falcon sphinx, Xylophanes falco
+Tersa Sphinx, Xylophanes tersa
+Sigmoid Prominent, Clostera albosigma
+Angle-Lined Prominent, Clostera inclusa
+Black-Spotted Prominent, Dasylophia anguina
+Angus's Datana, Datana angusii
+White Furcula, Furcula borealis
+Zigzag Furcula Moth, Furcula scolopendrina
+Wavy-lined Heterocampa, Heterocampa biundata
+Pink Prominent, Hyparpax aurora
+Georgian Prominent, Hyperaeschra georgica
+White-dotted Prominent, Nadata gibbosa
+Black-rimmed Prominent, Pheosia rimosa
+Unicorn Caterpillar Moth, Schizura unicornis
+Eight-Spot, Amyna axis
+Tufted Bird-Dropping Moth, Cerma cerintha
+Owl-eyed Bird-dropping Moth, Cerma cora
+Black Wedge-spot, Homophoberia apicosa
+Green Leuconycta, Leuconycta diphteroides
+Small Mossy Lithacodia, Lithacodia musta
+Black-bordered Lemon Moth, Marimatha nigrofimbria
+The White-Edge, Oruza albocostaliata
+Olive-shaded Bird-dropping Moth, Ponometia candefacta
+Small Bird-dropping Moth, Ponometia erastrioides
+Half-yellow Moth, Ponometia semiflava
+Large Mossy Lithacodia, Protodeltote muscosula
+Yellow Spragueia, Spragueia apicalis
+Southern Spragueia, Spragueia dama
+Common Spragueia, Spragueia leo
+Black-dotted Spragueia, Spragueia onagrus
+Exposed Bird-dropping Moth, Tarache aprica
+American Dagger Moth, Acronicta americana
+Exiled Dagger Moth, Acronicta exilis
+Speared Dagger Moth, Acronicta hasta
+Yellow-haired Dagger Moth, Acronicta impleta
+Interrupted Dagger Moth, Acronicta interrupta
+The Green Marvel, Agriopodes fallax
+Harris' Three Spot, Harrisimemna trisignata
+The Hebrew, Polygrammate hebraeicum
+Henry's Marsh Moth, Simyra insularis
+Copper Underwing, Amphipyra pyramidoides
+Wood-colored Apamea, Apamea lignicolora
+Obtuse Yellow, Azenia obtusa
+White-blotched Balsa, Balsa labecula
+Silver-spotted Fern Moth, Callopistria cordata
+Florida Callopistria Moth, Callopistria floridensis
+Cloaked Marvel, Chytonix palliatricula
+Mobile Groundling, Condica mobilis
+Dusky Groundling, Condica vecors
+White-dotted Groundling, Condica videns
+Verbena Moth, Crambodes talidiformis
+Pale-winged Midget, Elaphria alapallida
+Beloved Emarginea Moth, Emarginea percara
+American Angle Shades, Euplexia benesimilis
+Marsh Fern Moth, Fagitana littera
+The Wedgling, Galgula partita
+Iodopepla u album
+Even-lined Sallow, Ipimorpha pleonectusa
+Exhausted Brocade, Neoligia exhausta
+Common Pinkband, Ogdoconta cinereola
+Black-banded Brocade, Oligia modica
+Northern Burdock Borer Moth, Papaipema arctivorens
+Papaipema baptisiae
+Burdock Borer Moth, Papaipema cataphracta
+Aster Borer Moth, Papaipema impecuniosa
+Stalk Borer Moth, Papaipema nebris
+Spotted Phosphila, Phosphila miselioides
+Black-barred Brown, Plagiomimicus pityochromus
+Dolichos Armyworm Moth, Spodoptera dolichos
+Beet Armyworm Moth, Spodoptera exigua
+Fall Armyworm Moth, Spodoptera frugiperda
+Yellow-striped Armyworm Moth, Spodoptera ornithogalli
+Straight Lined Mallow Moth, Bagisara rectifascia
+Wavy Lined Mallow Moth, Bagisara repanda
+Grote's Sallow, Copivaleria grotei
+Cucullia antipoda
+The Asteroid, Cucullia asteroides
+Brown-hooded Owlet, Cucullia convexipennis
+Intermediate Cucullia, Cucullia intermedia
+Morrison's Sallow, Eupsilia morrisoni
+Straight-toothed Sallow, Eupsilia vinulenta
+Comstock's Sallow, Feralia comstocki
+Ashen Pinion, Lithophane antennata
+Chosen Sallow, Psaphida electilis
+Figure-Eight Sallow, Psaphida resumens
+Roland's Sallow, Psaphida rolandi
+Fawn Sallow, Psaphida styracis
+Bicolored Sallow, Sunira bicolorago
+Curved Halter Moth, Capis curvata
+Black-dotted Maliattha, Maliattha synochitis
+Pink-barred Pseudeustrotia, Pseudeustrotia carneola
+Sympistis kappa
+The Laugher, Charadra deridens
+Closebanded Yellowhorn Moth, Colocasia propinquilinea
+Black Zigzag, Panthea acronyctoides
+Eastern Panthea, Panthea furcilla
+Variegated Brindle Moth, Abrostola urentis
+Unspotted Looper Moth, Allagrapha aerea
+Celery Looper Moth, Anagrapha falcifera
+Large Looper Moth, Autographa ampla
+Two-Spotted Looper Moth, Autographa bimaculata
+The Common Looper Moth, Autographa precationis
+Soybean Looper Moth, Chrysodeixis includens
+Hologram Moth, Diachrysia balluca
+Pink-washed Looper Moth, Enigmogramma basigera
+Bilobed Looper Moth, Megalographa biloba
+Gray Looper Moth, Rachiplusia ou
+Cabbage Looper Moth, Trichoplusia ni
+Major Sallow, Feralia major
+Distinct Quaker, Achatia distincta
+Norman's Quaker, Crocigrapha normani
+Wheat Head Armyworm Moth, Dargida diffusa
+The Pink-Streak, Dargida rubripennis
+Chalcedony Midget, Elaphria chalcedonia
+Festive Midget, Elaphria festivoides
+Grateful Midget, Elaphria grata
+Elaphria nucicolora
+Variegated Midget, Elaphria versicolor
+Explicit Arches, Lacinipolia explicata
+Implicit Arches, Lacinipolia implicata
+Lacinipolia stricta
+Leucania adjuta
+Unarmed Wainscot, Leucania inermis
+Hitched Arches, Melanchra adjuncta
+Bicolored Woodgrain, Morrisonia evicta
+Armyworm Moth, Mythimna unipuncta
+Bronzed Cutworm Moth, Nephelodes minians
+Broken-lined Brocade, Oligia fractilinea
+Rustic Quaker, Orthodes majuscula
+Speckled Green Fruitworm Moth, Orthosia hibisci
+Ruddy Quaker, Protorthodes oviduca
+Tholera americana
+Spanish Moth, Xanthopastis regnatrix
+Venerable Dart, Agrotis venerabilis
+Old Man Dart, Agrotis vetusta
+Glassy Cutworm, Apamea devastator
+White-tailed Diver, Bellura gortynoides
+Cattail Borer Moth, Bellura obliqua
+Bent-Line Dart, Choephora fungorum
+American dun-bar Moth, Cosmia calami
+Copablepharon grandis
+Army Cutworm, Euxoa auxiliaris
+Master's Dart, Feltia herilis
+Dingy Cutworm Moth, Feltia jaculifera
+Subterranean Dart Moth, Feltia subterranea
+Lateroligia ophiogramma
+Iris Borer Moth, Macronoctua onusta
+Orbed Narrow-wing, Magusa divaricata
+American Flame-shouldered Dart, Ochropleura implecta
+Ash Tip Borer Moth, Papaipema furcata
+Maritime Sunflower Borer Moth, Papaipema maritima
+Brown Angle Shades, Phlogophora periculosa
+Pseudeustrotia indeterminata
+Four-lined Borer Moth, Resapamea stipata
+Greater Black-letter Dart, Xestia dolosa
+Red-winged Sallow, Xystopeplus rufago
+The Brother Moth, Raphia frater
+Subflexus Straw, Heliothis subflexa
+Arcigera Flower Moth, Schinia arcigera
+Primrose Moth, Schinia florida
+Leadplant Flower Moth, Schinia lucens
+Bleeding Flower Moth, Schinia sanguinea
+Divided Flower Moth, Schinia scissoides
+Eight-spotted Forester, Alypia octomaculata
+Wittfeld's Forester, Alypia wittfeldii
+Beautiful Wood-nymph, Eudryas grata
+Grapevine Epimenis, Psychomorpha epimenis
+Apantesis carlotta
+Garden Tiger Moth or Great Tiger Moth, Arctia caja
+Kentucky Lichen Moth, Cisthene kentuckiensis
+Scarlet-Bodied Wasp Moth, Cosmosoma myrodora
